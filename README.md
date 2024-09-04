@@ -1,6 +1,13 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=swift,js,ts,kotlin,python,go,html,css,scss&theme=light&perline=5)](https://skillicons.dev)
+### Framework or Env
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,azure,spring,react,django,nodejs,gradle,jest,firebase&theme=light)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,git,github,gitlab,postman,discord&theme=light)](https://skillicons.dev)
+
+![Satoru-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satoru-git&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satoru-git&layout=compact&theme=radical)
 
 <!--
 **Satoru-git/Satoru-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
